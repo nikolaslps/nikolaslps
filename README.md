@@ -1,4 +1,4 @@
-<h3 align="center">🚀 Hi, I'm <strong>Nikolaos Lappas</strong></h3>
+<h3 align="center">Hi, I'm <strong>Nikolaos Lappas</strong></h3>
 
 <h3 align="center">Electrical and Computer Engineering @ NTUA<br>Passionate Robotics and Computer Vision Engineer</h3></h3>
 
@@ -8,8 +8,9 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on **building an Autonomous Vehicle**
-- 📫 How to reach me: **nikolas.lappas.2003@gmail.com**
+- :telescope: I'm currently searching for **visual SLAM algorithms along with Semantics**
+- :dart: I'm currently working on **Human Aware Navigation algorithms**
+- :mailbox: How to reach me: **nikolas.lappas.2003@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -51,4 +52,13 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
     
+</p>
+
+<p align="center">
+  <a href="https://github.com/nikolaslps">
+    <!-- Stats Card -->
+    <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nikolaslps&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&line_height=24" /> -->
+    <!-- Languages Card -->
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslps&theme=transparent&hide_border=true&layout=compact&langs_count=7&card_width=320" />
+  </a>
 </p>
