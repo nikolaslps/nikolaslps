@@ -53,12 +53,3 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
     
 </p>
-
-<!-- <p align="center">
-  <a href="https://github.com/nikolaslps">
-    <!-- Stats Card -->
-    <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nikolaslps&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&line_height=24" /> -->
-    <!-- Languages Card -->
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslps&theme=transparent&hide_border=true&layout=compact&langs_count=7&card_width=320" />
-  </a>
-</p> -->
