@@ -20,6 +20,17 @@
   </a>
 </p>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ros,py,opencv,matlab,c,cpp,tensorflow,pytorch,linux,ubuntu,git,docker,kubernetes,arduino,raspberrypi,mongodb,postman,latex&perline=9&theme=dark" />
+  </a>
+</p>
+
+<details style="display:none;">
+  <summary>Hidden Backup of Icons</summary>
+[![My Skills](https://skillicons.dev/icons?i=ros,python,opencv,matlab,c,cpp,tensorflow,pytorch,linux,ubuntu,git,docker,kubernetes,arduino,raspberrypi,mongodb,postman,latex&theme=dark)](https://skillicons.dev)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://wiki.ros.org/noetic" target="_blank" rel="noreferrer"> <img src="https://www.docs.mybotshop.de/projects/training_ros1/html/_images/image12.webp" alt="ros-noetic" width="40" height="40"/> </a>
@@ -55,3 +66,4 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
     
 </p>
+</details>
