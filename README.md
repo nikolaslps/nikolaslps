@@ -22,11 +22,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40"/> </a>
+    <a href="https://wiki.ros.org/noetic" target="_blank" rel="noreferrer"> <img src="https://www.docs.mybotshop.de/projects/training_ros1/html/_images/image12.webp" alt="ros-noetic" width="40" height="40"/> </a>
+    <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/606d378755a86f589aa297b7/1653397531343-6M4IQ4JWDQV1SQ8W17UN/HumbleHawksbill_TransparentBG-NoROS.png" alt="ros-humble" width="40" height="40"/> </a>
+    <a href="https://docs.ros.org/en/jazzy/index.html" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/606d378755a86f589aa297b7/1717136168404-CV7O6LD1M56PNET8G161/JazzyJalisco_Final.png" alt="ros-jazzy" width="40" height="40"/> </a>
+    <!-- <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40"/> </a> -->
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-    <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/640px-Raspberry_Pi_Logo.svg.png" alt="raspberrypi" width="40" height="40"/> </a>
-    <a href="https://gazebosim.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Gazebo_logo_without_text.svg" alt="gazebo" width="40" height="40" style="background-color:#222;padding:5px;border-radius:5px;"/> </a>
+    <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
+    <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Gazebo_logo_without_text.svg" alt="gazebo" width="40" height="40" style="background-color:#222;padding:5px;border-radius:5px;"/> </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
